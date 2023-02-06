@@ -36,17 +36,19 @@ a {
   width: 100%;   
 }
 
+
+/***********************************************************************
+ *  Cards
+ **********************************************************************/
 button {
-    background-color: #03030a;
+    background-color: #242427;
     color: #ededf3;
-    border: 1px solid #ededf3;
+    border: 2px solid #ededf3;
     border-radius: 5px;
-    padding: 5px;
-    margin: 5px;
+    padding: 10px;
     font-size: 20px;
+    margin: 10px;
 }
-
-
  
 /***********************************************************************
  *  Footer
